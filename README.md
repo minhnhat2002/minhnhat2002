@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/nhật-lê-8b8561249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhật-lê-8b8561249" height="30" width="40" /></a>
 <a href="https://fb.com/leminhnhat2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leminhnhat2" height="30" width="40" /></a>
 <a href="https://instagram.com/leminh2893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leminh2893" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@user-jn7vz7oj1v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-jn7vz7oj1v" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@user-jn7vz7oj1v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-jn7vz7oj1v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
