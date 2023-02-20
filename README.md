@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in **University Information of Technology**
 
-- 🌱 I’m currently learning **Python, C/C++**
+- 🌱 I’m currently learning **Python, C#,C/C++**
 
 - 💬 Ask me about **Some Project for Game, AI, Data Science,...**
 
