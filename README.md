@@ -2,7 +2,6 @@
 <h3 align="center">I'm a developer and a Computer Science engineer</h3>
 
 
-
 - 🔭 I’m currently studying in **University Information of Technology**
 
 - 🌱 I’m currently learning **Python, C#,C/C++**
