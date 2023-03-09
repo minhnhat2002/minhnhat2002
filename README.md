@@ -34,7 +34,7 @@
 ## Libraries & Tools of Python, that I am aware with...👇
 
 #### For Data handling, visualization and Image processing
-| Pandas | Numpy | PIL | Matplotlib | Numpy |
+| Pandas | Numpy | PIL | Matplotlib | Pandas |
 | :---: | :---: | :---: | :---: | :---: |
 
 #### For Machine Learning, Deep learning & Computer Vision
