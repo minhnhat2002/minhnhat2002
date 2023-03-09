@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lê Minh Nhật</h1>
-<h3 align="center">I'm a developer and a Computer Science engineer</h3>
+<img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 
 
-- 🔭 I’m currently studying in **University Information of Technology**
+## Hey there 👋 My name is Lê Minh Nhật 🕷
+## I'm a developer and a Computer Science engineer
 
-- 🌱 I’m currently learning **Python, C#,C/C++**
-
-- 💬 Ask me about **Some Project for Game, AI, Data Science,...**
-
-- 📫 How to reach me **minhnhat2k2135@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +13,55 @@
 <a href="https://www.youtube.com/@user-jn7vz7oj1v/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-jn7vz7oj1v" height="30" width="40" /></a>
 </p>
  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+🌱 I’m currently exploring: My self who can build a great future in Data Science field and Artificial Intelligence.
+
+💬 Ask me about: Python, Machine Learning, Jokes, Memes and a songs🎧
+
+⚡ Fun fact: Most of the newbies of CS thinks there is no difference between Machine Learning & Deep Learning.
+
+📫 How to reach me via email **minhnhat2k2135@gmail.com**
+
+
+
+## Languages
+
+| Python | C++ | C# | C | 
+| :---: | :---: | :---: | :---: |
+
+#### Apart from all these, I am Pythonist🐍
+
+## Libraries & Tools of Python, that I am aware with...👇
+
+#### For Data handling, visualization and Image processing
+| Pandas | Numpy | PIL | Matplotlib | Numpy |
+| :---: | :---: | :---: | :---: | :---: |
+
+#### For Machine Learning, Deep learning & Computer Vision
+| Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
+| :---: | :---: | :---: | :---: | :---: |
+
+#### For Web Development & WebScraping
+| Flask | StreamLit | BS4 | Requests | Selenium |
+| :---: | :---: | :---: | :---: | :---: |
+
+#### IDEs that I am aware with 
+| Visual Studio | Google Colab | Jupyter Notebook | VSCode | Kaggle
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+#### Cloud Technologies
+ | AWS | 
+ | :---: |
+ 
+ #### AWS Stack
+ | Sagemaker | EC2 | Lambda | EC2 | VPC | DynamoDB | RDS | S3, EBS, EFS | Many more ...
+ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+ 
+ #### Game Developer
+ | Unity | Pygame | Tkinder and PysimpleGUI | Many other game libraries and AI |
+ | :---: | :---: | :---: | :---: |
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhat2002&show_icons=true&locale=en&layout=compact" alt="minhnhat2002" /></p>  
 
