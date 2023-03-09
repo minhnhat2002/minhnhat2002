@@ -46,7 +46,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 #### IDEs that I am aware with 
-| Visual Studio | Google Colab | Jupyter Notebook | VSCode | Kaggle
+| Visual Studio | Pycharm | Google Colab | Jupyter Notebook | VSCode | Kaggle
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### Cloud Technologies
