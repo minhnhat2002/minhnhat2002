@@ -41,25 +41,17 @@
 | Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### For Web Development & WebScraping
-| Flask | StreamLit | BS4 | Requests | Selenium |
-| :---: | :---: | :---: | :---: | :---: |
-
 #### IDEs that I am aware with 
 | Visual Studio | Pycharm | Google Colab | Jupyter Notebook | VSCode | Kaggle
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### Cloud Technologies
- | AWS | 
- | :---: |
+| AWS | 
+| :---: |
  
- #### AWS Stack
- | Sagemaker | EC2 | Lambda | EC2 | VPC | DynamoDB | RDS | S3, EBS, EFS | Many more ...
- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
- 
- #### Game Developer
- | Unity | Pygame | Tkinder and PysimpleGUI | Many other game libraries and AI |
- | :---: | :---: | :---: | :---: |
+#### Game Developer
+| Unity | Pygame | Tkinder and PysimpleGUI | Many other game libraries and AI |
+| :---: | :---: | :---: | :---: |
 
 
 
