@@ -38,8 +38,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 #### For Machine Learning, Deep learning & Computer Vision
-| Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
-| :---: | :---: | :---: | :---: | :---: |
+| Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) | YoLov5 | face_recognition
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### IDEs that I am aware with 
 | Visual Studio | Pycharm | Google Colab | Jupyter Notebook | VSCode | Kaggle
