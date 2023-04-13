@@ -50,8 +50,8 @@
 | :---: |
  
 #### Game Developer
-| Unity | Pygame | Tkinder and PysimpleGUI | Many other game libraries and AI |
-| :---: | :---: | :---: | :---: |
+| Pygame | Tkinder and PysimpleGUI | Many other game libraries and AI |
+| :---: | :---: | :---: |
 
 
 
